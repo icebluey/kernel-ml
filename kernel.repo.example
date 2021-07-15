@@ -1,0 +1,6 @@
+[rhel-7-server-kernel-rpms]
+baseurl = file:///.repos/kernel
+name = Linux Kernel
+enabled = 1
+gpgcheck = 0
+
